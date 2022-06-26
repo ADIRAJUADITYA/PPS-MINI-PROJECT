@@ -1,2 +1,2 @@
 # PPS-MINI-PROJECT
-Banking system
+A project about managing Banking system
