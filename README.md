@@ -20,10 +20,4 @@ A simple implementation of Bank management System in C programming lanaguage com
 
 - Transaction (balance enquiry, cash deposit, cash withdrawl)
 
-## Team
 
-<a href = "https://github.com/amulifts"><img src = "https://avatars.githubusercontent.com/u/49828737?v=4" width="144"></a>
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
